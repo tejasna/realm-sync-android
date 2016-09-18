@@ -19,11 +19,12 @@ Realm sync peovides the following
                             USER_OBJECT, 
                             END_POINT,   
                             REQUEST METHOD,
-                            JSON_OBJECT); ```
+                            JSON_OBJECT); 
+  ```
                             
   Use a loader to add your callbaks to your activity or fragment
   
-  ``` 
+  ```
   public LoaderManager.LoaderCallbacks<List<RealmObject>> loaderCallbacks =
             new LoaderManager.LoaderCallbacks<List<RealmObject>>() {
 
