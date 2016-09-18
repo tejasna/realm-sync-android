@@ -12,7 +12,7 @@ Realm sync peovides the following
 
 # Use
 
-  To start of create a realm-sync object as follows
+  To start off create a realm-sync object as follows
   
   ```
   new RealmSync(MainActivity.this,
@@ -54,5 +54,7 @@ Realm sync peovides the following
                 public void onLoaderReset(Loader<List<RealmObject>> loader) {
                     loader = null;
                 }
-            };```
+            };
+            
+  ```
 
