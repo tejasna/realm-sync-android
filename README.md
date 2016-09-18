@@ -5,7 +5,7 @@ Realm-sync simplifies data retrieval from any REST API and caches it to local re
 Realm sync peovides the following 
 
 1. Seamless network calls - provides interfaces to make network calls with very little code.
-2. Serialization - serailizes json data into respective realm models and returns a list of realm objects.
+2. Serialisation - serailizes json data into respective realm models and returns a list of realm objects.
 3. Orientation changes - preserves state on orientation changes on an android device.
 4. Offline caching.
 5. All done under the hood with very little code and configuration.
