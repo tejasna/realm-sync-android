@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sync </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <array name="items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+        <item>Item 7</item>
+        <item>Item 8</item>
+        <item>Item 9</item>
+        <item>Item 10</item>
+    </array>
+    <string name="force_load">Force load</string>
+    <string name="auth">fa2467bba18295733b55b1186896fca7</string>
+    <string name="refresh_error">Could not refresh feed</string>
+    <string name="user_name">TEJAS N A</string>
+</resources>
