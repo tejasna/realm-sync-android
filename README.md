@@ -2,7 +2,7 @@
 
 Realm-sync simplifies data retrieval from any REST API and caches it to local realm.io database on android devices.Built on top of loaders which was introduced in Android 3.0 and volley for transmitting Network Data.
 
-Realm sync peovides the following 
+Realm sync provides the following 
 
 1. Seamless network calls - provides interfaces to make network calls with very little code.
 2. Serialisation - serailizes json data into respective realm models and returns a list of realm objects.
